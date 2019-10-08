@@ -1,0 +1,6 @@
+.case-list li{width: 25%;}
+
+.home-page .case-list li:nth-child(5n){padding-right: 0;border-bottom: solid 1px transparent;border-right: transparent 1px solid;box-sizing: border-box;}
+
+.home-page .case-list li{padding-right: 0;border-bottom: solid 1px transparent;border-right: transparent 1px white;box-sizing: border-box;}
+.home-page .case-list li:nth-child(4n){padding-right: 1px;border-right: none;box-sizing: border-box;}
